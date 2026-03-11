@@ -28,7 +28,8 @@ The dashboard highlights:
 - Superstore-Sales-Dashboard-Analysis.xlsx
 - Dashboard-Preview.png
 - Pivot-Analysis.png
-[6:33 PM, 3/11/2026] .: ## Dashboard Preview
+
+## Dashboard Preview
 ![Dashboard](Dashboard-Preview.png)
 
 ## Pivot Table Analysis
